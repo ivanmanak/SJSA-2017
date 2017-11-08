@@ -10,8 +10,8 @@ Combined emphasis with **asterisks** and underscores.
 
 
 1. One
-2  Dva
-3  Tri
+2. dva
+3. tri
 
 
 * fsdf sd
@@ -30,8 +30,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 www.google.com
 www.yahoo.com
 
-
-Inline `code` has `back-ticks around` it.
 
 
 
